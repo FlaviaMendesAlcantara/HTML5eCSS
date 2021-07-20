@@ -51,9 +51,9 @@ body h2,h3 {
     color: #0D331E;
 }
 body strong{
-    color: #0a7c3b;
+    color: #165732;
 }
-section h3{
+section h2{
     background-image:linear-gradient(to right,#83E1AD,#3DDC84 1px,#ffffff);
     color: #165732;
 }
@@ -66,13 +66,18 @@ section#principal{
 
     
 }
+section#principal h1{
+    font-family: 'android'; 
+    color: #0D331e; 
+    font-size: 30px;  
+}
 section p {
     text-indent: 3em;
     text-align: justify;
 }
 
 section a {
-    background-color:#8fd1ad;
+    background-color:#83E1AD;
     padding: 2px;
     text-decoration: none;
     font-weight: bold;
