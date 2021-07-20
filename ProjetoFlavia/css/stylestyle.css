@@ -50,6 +50,9 @@ body h2,h3 {
     font-family: 'android';
     color: #0D331E;
 }
+body strong{
+    color: #0a7c3b;
+}
 section h3{
     background-image:linear-gradient(to right,#83E1AD,#3DDC84 1px,#ffffff);
     color: #165732;
@@ -74,4 +77,3 @@ section a {
     text-decoration: none;
     font-weight: bold;
 }
-
